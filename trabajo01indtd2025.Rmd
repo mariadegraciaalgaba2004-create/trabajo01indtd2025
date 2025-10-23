@@ -1,5 +1,6 @@
 ---
 title: "Trabajo1"
+author: "María"
 output: html_document
 date: "2025-10-15"
 ---
