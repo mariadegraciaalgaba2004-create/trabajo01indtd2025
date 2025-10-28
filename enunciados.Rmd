@@ -1,0 +1,51 @@
+---
+title: "enunciados"
+author: "María de Gracia Algaba Rodríguez"
+output: html_document
+date: "2025-10-23"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+EJERCICIO 1
+
+El supermercado EcoMarket quiere elegir una estrategia de fidelización
+de clientes. Se estudian cuatro alternativas:
+   B1: Tarjeta de puntos
+   B2: Descuentos por app
+   B3: Suscripción mensual
+   B4: Campañas ecológicas
+
+Los resultados (beneficio neto anual, miles de €) dependen del grado de
+digitalización de los clientes (F1 a F4).
+
+        F1   F2   F3   F4
+  B1:  100   80   60   40
+  B2:  120   90   50   30
+  B3:  130  100   70   20
+  B4:   90   70   60   50
+  
+
+EJERCICIO 2
+El supermercado EcoMarket quiere decidir cómo invertir en la mejora
+de su área de productos frescos.
+
+Alternativas:
+  B1: Ampliar la sección de frutas y verduras
+  B2: Crear una zona de productos locales
+  B3: Implementar refrigeración más eficiente
+  B4: Introducir comidas preparadas frescas
+
+ Los beneficios esperados (en miles de euros) dependen de la reacción del mercado (F1 a F4):
+  F1: Alta demanda de productos naturales
+  F2: Demanda estable
+  F3: Competencia más fuerte
+  F4: Descenso del consumo
+
+        F1   F2   F3   F4
+  B1:   120   90   60   40
+  B2:   130  100   70   50
+  B3:   140  110   80   60
+  B4:   100   85   65   55
+  

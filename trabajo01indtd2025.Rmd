@@ -1,8 +1,10 @@
 ---
 title: "Trabajo1"
-author: "María"
-output: html_document
+author: "María de Gracia Algaba Rodríguez"
 date: "2025-10-15"
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
