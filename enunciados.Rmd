@@ -1,5 +1,5 @@
 ---
-title: "enunciados"
+title: "enunciado"
 author: "María de Gracia Algaba Rodríguez"
 output: html_document
 date: "2025-10-23"
